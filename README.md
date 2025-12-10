@@ -1,5 +1,9 @@
 # COVID-19 Data Analysis and Visualization Pipeline
 
+## Description
+This project involves the comprehensive collection, cleaning, analysis, and visualization of publicly available COVID-19 data. The primary objective was to transform complex statistical data into clear, actionable risk communication designed for non-technical users and local community leaders.
+The core goal was to bridge the gap between complex public health statistics and public understanding, demonstrating proficiency in data-driven decision support and human-centered visualization (HCI).
+
 # 🎯 Status: Complete
 This project implements a complete pipeline for analyzing and visualizing COVID-19 case trends using Python and the core scientific stack. It includes robust data wrangling, Exploratory Data Analysis (EDA), and the generation of informative visualizations.
 The primary goal of this project is to practice and demonstrate proficiency in handling large, time-series, real-world data and translating complex statistical metrics (mortality rates, growth curves) into clear, actionable data dashboards. This project showcases strong foundational skills essential for any Data Science or Data Analyst role.
@@ -33,7 +37,7 @@ This project focuses on the rigorous application of data analysis techniques:
 
 # 🖼️ Visuals
 
-in plot file
+in Bar chart.PNG file
 
 # 🔑 Skills Demonstrated
 Data wrangling, Handling large datasets, Metrics Calculation (CFR), Exploratory Data Analysis (EDA), Data visualization, Time-Series Analysis, Python programming.
